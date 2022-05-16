@@ -3,7 +3,6 @@ title: This is test post
 date: '2022-05-16'
 description: This is a test description
 topic: react
-toc: true
 tags:
 - react
 ---
